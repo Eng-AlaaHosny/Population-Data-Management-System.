@@ -42,6 +42,11 @@ Ensure your CSV files are formatted correctly and match the table structures.
  Write a script to read the CSV files and insert data into the corresponding tables.
  Execute the script to import the data.
 
+📊 Sample Queries 
+```
+SELECT age_range, SUM(population) 
+FROM demographics
+GROUP BY age_range;
  structure:
 ```
 ├── data/ # All CSV datasets
