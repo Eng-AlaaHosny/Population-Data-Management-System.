@@ -17,7 +17,7 @@ It provides a simple web interface to execute SQL queries and visualize the resu
 
 1. Clone the repository:
    ```
-   https://github.com/Eng-AlaaHosny/Population-Data-Management-System.-
+  https://github.com/Eng-AlaaHosny/Population-Data-Management-System.
 
 2. Import database
 ```
