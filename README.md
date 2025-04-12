@@ -49,6 +49,7 @@ FROM demographics
 GROUP BY age_range;
  structure:
 ```
+```
 ├── data/ # All CSV datasets
 ├── database/ # SQL scripts
 ├── backend/ # Node.js files
